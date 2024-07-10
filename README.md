@@ -1,6 +1,6 @@
 # Fault-Reactivation-and-Injection-Pressure-Window
 
-Simple algorithm to estimate the potential fault-slip and injection pressure window. Application include screening tool for potential induced seismicity and fluid injection.
+Simple algorithm to estimate the potential fault-slip and injection pressure window. Application include screening tool for potential induced seismicity and various pressure window for fluid injection (e.g., CO2 injection).
 
 Output includes normalized 3D Mohr Circle, Mohr Circle against friction coefficient, maximum allowable pressure increase, and 2D top view of faults.
 
